@@ -6,7 +6,9 @@ This project was born with the aim of saving corroded boards of **Gameboy DMGs**
 - **Integrated bivert chip**.
 - I also developed a **replica of the OSD IPS (v4 or v5) board** with **button LEDs** and **tactile buttons**.
 
-Videos related to this project can be found here on my [YouTube Channel](https://www.youtube.com/channel/UC17bQxOnCBejYQG4rzEg3jA).
+Videos related to this project can be found on my [YouTube Channel](https://www.youtube.com/channel/UC17bQxOnCBejYQG4rzEg3jA).
+
+## Disclaimer
 
 **Before I go any further, please read this VERY important disclaimer if you are thinking about making this yourself.**
 
