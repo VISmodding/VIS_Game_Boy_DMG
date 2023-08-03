@@ -24,8 +24,17 @@ Before assembling the console, the following switches or selectors must be prope
   - The selector on the mainboard to **use normal video or biverted video**.
   - The switch on the powerboard to **turn ON/OFF the negative voltage** required by the **original LCD**.
   - The selector on the powerboard to **set 0.5 A or 1 A charger**.
-  - The switch on the IPS board to **turn ON/OFF the button LED**s.
+  - The switch on the IPS board to **turn ON/OFF the button LEDs**.
+    
 Finally, from the battery compartment, it is possible to **ENABLE/DISABLE the audio amplifier** without opening the console.
+
+## Donor parts
+
+In this project, the **strictly required donor parts** are only the **CPU** (that can be sourced from a donor DMG mainboard or a SNES super Gameboy adapter) and a **link-port** (that can be sourced from a donor DMG mainboard or from a 4 player adapter DMG-07).
+Other **optional components to desolder** from a donor console are:
+  - **RAM** chips (can be sourced from a donor DMG mainboard or a SNES super Gameboy adapter) or the Alliance AS6C6264-55SIN RAM chips can be purchased.
+  - **Card slot connector, volume wheel, and quartz oscillator** can be sourced from a donor DMG mainboard or can be simply purchased on Aliexpress.
+  - **Power switch** can be sourced from a donor DMG mainboard or a brand new switch can be purchased at any electronic components shop (see BOM).
 
 ## Contacts
 
