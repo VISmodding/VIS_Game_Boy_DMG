@@ -31,10 +31,19 @@ Finally, from the battery compartment, it is possible to **ENABLE/DISABLE the au
 ## Donor parts
 
 In this project, the **strictly required donor parts** are only the **CPU** (that can be sourced from a donor DMG mainboard or a SNES super Gameboy adapter) and a **link-port** (that can be sourced from a donor DMG mainboard or from a 4 player adapter DMG-07).
+
 Other **optional components to desolder** from a donor console are:
   - **RAM** chips (can be sourced from a donor DMG mainboard or a SNES super Gameboy adapter) or the Alliance AS6C6264-55SIN RAM chips can be purchased.
   - **Card slot connector, volume wheel, and quartz oscillator** can be sourced from a donor DMG mainboard or can be simply purchased on Aliexpress.
-  - **Power switch** can be sourced from a donor DMG mainboard or a brand new switch can be purchased at any electronic components shop (see BOM).
+  - **Power switch** can be sourced from a donor DMG mainboard, or a brand new switch can be purchased at any electronic components shop (see BOM file).
+
+## Setup instructions
+
+The most **difficult parts** of the project are the following:
+  - **Desolder** the components from the donor console by using a hot air gun. For this step, I suggest searching videos on youtube regarding the SYF game gear setup in which it is shown how to desolder the game gear CPU.
+  - **Drag soldering** a 0.5 mm pitch SMD component. Also, in this case, you can refer to the videos made for the SYF game gear since solder the Game Gear single CPU version has the same type of difficulty.
+
+Finally, it is required to solder easy things like e.g. 0805 and 0806 SMD resistors and capacitors and so on. Take a look at the setup video on my [YouTube Channel](https://www.youtube.com/channel/UC17bQxOnCBejYQG4rzEg3jA) in order to understand and follow all the setup.
 
 ## Contacts
 
