@@ -20,12 +20,12 @@ If you choose to build this project yourself, be warned - this is a considerably
 ## Switches/selectors
 
 Before assembling the console, the following switches or selectors must be properly set:
-  - The switch on the mainboard to turn ON/OFF the bivert chip.
-  - The selector on the mainboard to use normal video or biverted video.
-  - The switch on the powerboard to turn ON/OFF the negative voltage required by the original LCD.
-  - The selector on the powerboard to set 0.5 A or 1 A charger.
-  - The switch on the IPS board to turn ON/OFF the button LEDs.
-Finally, from the battery compartment, it is possible to ENABLE/DISABLE the audio amplifier without opening the console.
+  - The switch on the mainboard to **turn ON/OFF the bivert chip**.
+  - The selector on the mainboard to **use normal video or biverted video**.
+  - The switch on the powerboard to **turn ON/OFF the negative voltage** required by the **original LCD**.
+  - The selector on the powerboard to **set 0.5 A or 1 A charger**.
+  - The switch on the IPS board to **turn ON/OFF the button LED**s.
+Finally, from the battery compartment, it is possible to **ENABLE/DISABLE the audio amplifier** without opening the console.
 
 ## Contacts
 
