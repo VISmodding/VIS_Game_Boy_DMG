@@ -40,10 +40,10 @@ Other **optional components to desolder** from a donor console are:
 ## Setup instructions
 
 The most **difficult parts** of the project are the following:
-  - **Desolder** the components from the donor console by using a hot air gun. For this step, I suggest searching videos on youtube regarding the SYF game gear setup in which it is shown how to desolder the game gear CPU.
-  - **Drag soldering** a 0.5 mm pitch SMD component. Also, in this case, you can refer to the videos made for the SYF game gear since solder the Game Gear single CPU version has the same type of difficulty.
+  - **Desolder** the components from the donor console by using a hot air gun. For this step, I suggest searching videos on youtube regarding the **SYF Game Gear** setup in which it is shown how to desolder the game gear CPU.
+  - **Drag soldering** a 0.5 mm pitch SMD component. Also, in this case, you can refer to the videos made for the **SYF Game Gear** since solder the Game Gear single CPU version has the same type of difficulty.
 
-Finally, it is required to solder easy things like e.g. 0805 and 0806 SMD resistors and capacitors and so on. Take a look at the setup video on my [YouTube Channel](https://www.youtube.com/channel/UC17bQxOnCBejYQG4rzEg3jA) in order to understand and follow all the setup.
+Finally, it is required to solder easy things like e.g. 0805 and 0806 SMD resistors and capacitors and so on. Take a look at the setup video on my [YouTube Channel](https://www.youtube.com/channel/UC17bQxOnCBejYQG4rzEg3jA) in order to understand and follow all the setup steps.
 
 ## Contacts
 
