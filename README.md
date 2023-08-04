@@ -83,6 +83,10 @@ First of all, you need to desolder a gameboy CPU from a gameboy DMG or from a su
       ![image](images/buttons_orientation.jpg)
   - **STEP 6**: Clean all the boards from flux and assembly the board (see the setup video from 36:28 to 42:20). Remember to properly set the switches for various options: bivert chip ON/OFF, normal video signal or biverted video signal, 0.5 A or 1 A charger, unregulated voltage (used only by the original LCD) ON/OFF, button LEDs on the IPS board ON/OFF.
 
+![image](images/VIS_DMGs_ON.jpg)
+
+**WARNING** Don't do a bath of 15/30 minutes for the IPS board if tactiles are installed (keep them outside the IPS; otherwise, the glue that keep metal pieces will be dissolved and switches break). I install the tactiles after the bath without using additional flux (I simply exploit the flux of the soldering tin).
+
 **SUGGESTED ITEMS**: I suggest using a 2A 5v usb-c charger to play while charging at 1A. I suggest you buy a 125054 Lipo battery that has a perfect fit into the shell.
 
 **NOTE**: When you start to hear aliens coming from the speaker and the screen starts flashing, it means that you have to charge the battery. I have not disabled the CPU in this case to give you the time to attach the power supply without losing the game in progress!!!
