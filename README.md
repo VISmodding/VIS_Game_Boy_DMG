@@ -78,6 +78,9 @@ First of all, you need to desolder a gameboy CPU from a gameboy DMG or from a su
     -	Finally, test the buttons and their LEDs
       
       ![image](images/VIS_ips_board.png)
+    - Pay attention to the orientation of the tactile buttons (the circled part of the following image must stay on the left and right for all the tactiles and not on the upper or lower part).
+
+      ![image](images/buttons_orientation.jpg)
   - **STEP 6**: Clean all the boards from flux and assembly the board (see the setup video from 36:28 to 42:20). Remember to properly set the switches for various options: bivert chip ON/OFF, normal video signal or biverted video signal, 0.5 A or 1 A charger, unregulated voltage (used only by the original LCD) ON/OFF, button LEDs on the IPS board ON/OFF.
 
 **SUGGESTED ITEMS**: I suggest using a 2A 5v usb-c charger to play while charging at 1A. I suggest you buy a 125054 Lipo battery that has a perfect fit into the shell.
@@ -87,6 +90,10 @@ First of all, you need to desolder a gameboy CPU from a gameboy DMG or from a su
 ## FAQs
 
 link [here](FAQs.md).
+
+## Troubleshooting
+
+link [here](troubleshooting.md).
 
 ## Contacts
 
