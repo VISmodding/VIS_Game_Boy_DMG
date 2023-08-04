@@ -53,23 +53,31 @@ First of all, you need to desolder a gameboy CPU from a gameboy DMG or from a su
     **Tip:** Differently from the video, you can use the brand new power switch directly (you find it in the BOM file) because a perfect combination between the original and the new switches is very hard to obtain. If you use the new button reported in the BOM file, firstly, it is not required to shorter the black plastic, and then, to make it all good, you can add a little tape, as shown in the following photos, to fit the space better.
     
     ![image](images/button_fit.jpg)
-  - **STEP 2**: Populate the power board (see the setup video from 06:39 to 13:28).
-  - **STEP 3**: Populate the mainboard. 
+  - **STEP 2**: Populate the **power board** (see the setup video from 06:39 to 13:28).
+
+    ![image](images/VIS_power_board.png)
+  - **STEP 3**: Populate the **mainboard**. 
     -	First, start with the components required to test only the power board and the battery charging circuit (see the setup video from 13:28 to 19:45).
     -	Then, test the power board and the battery charging circuit (see the setup video from 19:45 to 23:19). If the RED or GREEN LED doesn’t work probably, you have installed it in the wrong orientation.
     -	Once verified that the previous steps are OK, you can populate the mainboard entirely in a standard way (check the setup video from 23:19 to 24:42 to understand how to solder some components in the correct location).
-    -	Check the installation and the various switches (see the presentation video from 03:11 to 05:00) without the audio board just to be sure that the first 2 boards are ok. NOT exceed 6v (I suggest using 5v) power supply; otherwise, you will fry the TP4056 charger chip (only this chip will be damaged if you provide a voltage until 24v.In any case, use 5v!!!). 
-  - **STEP 4**: Populate the audio board.
+    -	Check the installation and the various switches (see the presentation video from 03:11 to 05:00) without the audio board just to be sure that the first 2 boards are ok. NOT exceed 6v (I suggest using 5v) power supply; otherwise, you will fry the TP4056 charger chip (only this chip will be damaged if you provide a voltage until 24v.In any case, use 5v!!!).
+
+     	![image](images/VIS_mainboard.png)
+  - **STEP 4**: Populate the **audio board**.
     -	Populate entirely the audio board paying attention to the inductances L1, L2, and L3 (they are very fragile). In addition, the location of the electrolytic capacitors must be very accurate.
     -	Choose the R2, R4 resistors for the speaker that you want to use (the original 0.25w speaker or the 1w speaker).
     -	Solder the 2 little PCB to add thickness (see the setup video from 25:03 to 28:58).
     -	Optional (also populate the pro-sound board and solder its 2 little PCBs for the thickness).
     -	Check the audio board and the switch on the mainboard to turn ON/OFF the audio amplifier (once assembled, the console this switch can be used from the battery compartment. This can be useful to save battery by disabling the audio amplifier or to use the pro-sound jack always by disabling the audio amplifier).
-  - **STEP 5**: Populate the IPS board.
+
+     	![image](images/VIS_audio_boards.png)
+  - **STEP 5**: Populate the **IPS board**.
     -	Firstly, you can populate the IPS board entirely by skipping soldering the button LEDS, the button resistors, and the contrast wheel (see the setup video from 28:58 to 29:55). Here on the power board, you can turn off the unregulated voltage required only with the original LCD.
     -	Then, you can solder and test the contrast wheel (also required to change the settings of the IPS panel) (see the setup video from 29:55 to 33:30). In the video has been used an old version of the board having problems with the holes for the LED (now don’t worry about this since it has been fixed).
     -	Then, you can install LED buttons, LED resistors, and the switch to turn ON/OFF these LEDs (see the setup video from 33:30 to 35:01). 
     -	Finally, test the buttons and their LEDs
+      
+      ![image](images/VIS_ips_board.png)
   - **STEP 6**: Clean all the boards from flux and assembly the board (see the setup video from 36:28 to 42:20). Remember to properly set the switches for various options: bivert chip ON/OFF, normal video signal or biverted video signal, 0.5 A or 1 A charger, unregulated voltage (used only by the original LCD) ON/OFF, button LEDs on the IPS board ON/OFF.
 
 **SUGGESTED ITEMS**: I suggest using a 2A 5v usb-c charger to play while charging at 1A. I suggest you buy a 125054 Lipo battery that has a perfect fit into the shell.
