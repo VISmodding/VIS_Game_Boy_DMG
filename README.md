@@ -49,6 +49,7 @@ First of all, you need to desolder a gameboy CPU from a gameboy DMG or from a su
 
 ![image](images/connections.png)
   - **STEP 1** *(OPTIONAL): Restore the power button (see the setup video from 00:54 to 06:38)*.
+    
     **Tip:** Differently from the video, you can use the brand new power switch directly (you find it in the BOM file) because a perfect combination between the original and the new switches is very hard to obtain. If you use the new button reported in the BOM file, firstly, it is not required to shorter the black plastic, and then, to make it all good, you can add a little tape, as shown in the following photos, to fit the space better.
     
     ![image](images/button_fit.jpg)
@@ -59,7 +60,7 @@ First of all, you need to desolder a gameboy CPU from a gameboy DMG or from a su
     -	Once verified that the previous steps are OK, you can populate the mainboard entirely in a standard way (check the setup video from 23:19 to 24:42 to understand how to solder some components in the correct location).
     -	Check the installation and the various switches (see the presentation video from 03:11 to 05:00) without the audio board just to be sure that the first 2 boards are ok. NOT exceed 6v (I suggest using 5v) power supply; otherwise, you will fry the TP4056 charger chip (only this chip will be damaged if you provide a voltage until 24v.In any case, use 5v!!!). 
   - **STEP 4**: Populate the audio board.
-    -	Populate entirely the audio board paying attention to the inductances L1, L2, and L3 (they are very fragile, and I put some additional items in the kit). In addition, the location of the electrolytic capacitors must be very accurate.
+    -	Populate entirely the audio board paying attention to the inductances L1, L2, and L3 (they are very fragile). In addition, the location of the electrolytic capacitors must be very accurate.
     -	Choose the R2, R4 resistors for the speaker that you want to use (the original 0.25w speaker or the 1w speaker).
     -	Solder the 2 little PCB to add thickness (see the setup video from 25:03 to 28:58).
     -	Optional (also populate the pro-sound board and solder its 2 little PCBs for the thickness).
