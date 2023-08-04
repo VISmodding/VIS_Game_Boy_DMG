@@ -46,6 +46,7 @@ The most **difficult parts** of the project are the following:
 Finally, it is required to solder easy things like e.g. 0805 and 0603 SMD resistors and capacitors and so on. Take a look at the setup video on my [YouTube Channel](https://www.youtube.com/channel/UC17bQxOnCBejYQG4rzEg3jA) in order to understand and follow all the setup steps. 
 
 **Tip:** Differently from the video, you can use the brand new power switch directly (you find it in the BOM file) because a perfect combination between the original and the new switches is very hard to obtain. If you use the new button reported in the BOM file, firstly, it is not required to shorter the black plastic, and, then, to make it all good, you can add a little tape, as shown in the following photos, to fit the space better.
+![image](images/button_fit.jpg)
 
 ## Contacts
 
