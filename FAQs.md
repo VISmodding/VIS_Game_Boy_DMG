@@ -29,7 +29,7 @@ I put all the know protections for the battery so it won't overcharge, discharge
 
 I suggest any 3.7V 125054 Lipo battery with a ph2.0 connector installed, as shown in the following image.
 
-![image](images/lipo_battery.png)
+![image](images/lipo_battery.jpg)
 
 
 
