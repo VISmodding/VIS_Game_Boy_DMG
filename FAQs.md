@@ -33,7 +33,7 @@ I suggest any 3.7V 125054 Lipo battery with a ph2.0 connector installed, as show
 
 ## Has mainboard protection?
 
-Yes, there are resettable fuses in series to the battery, the DC line, and the unregulated voltage for the original LCD. In addition, also the boost converter and the LDO limit the current on the lines.
+Yes, there are resettable fuses in series to the battery, the DC line, and the unregulated voltage for the original LCD. In addition, also the boost converter and the LDO limit the current on the various lines.
 
 
 
