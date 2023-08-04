@@ -46,9 +46,9 @@ Rework the solder of the cartridge slot connector and the CPU pins, and the RAM 
 
 ## Buttons/Button LEDs problem
 
-Some button problems are known. For example, all buttons work, but the B button and left D-PAD not. This is a common problem caused by a wrong insertion of the 21 pins ribbon cable that causes the -21v line to reach the trace of these buttons. In this case, the CPU is fried (Please fully test the CPU before installing it). 
+Some button problems are known. For example, all buttons work, but the B button and left D-PAD not. This is a common problem caused by a wrong insertion of the 21 pins ribbon cable that causes the -21v line to reach the trace of these buttons. In this case, the CPU is fried (Please fully test the CPU before installing it). In any case, try to reflow the CPU.
 
-Other problems can be a general malfunction of the buttons (for example, buttons sometimes work and sometimes do not). Probably, in this case, you have to replace the FPC connector since it can be damaged, especially if you have bent it and you have inserted and removed it several times. Also video issues can be related to a bad FPC connector.
+Other problems can be a general malfunction of the buttons (for example, buttons sometimes work and sometimes do not). Probably, in this case, you have to replace the FPC connector since it can be damaged, especially if you have bent it and you have inserted and removed it several times. Also, video issues can be related to a bad FPC connector.
 
 In addition, if you have installed tactile buttons, be sure of their orientation (check it in the read me section).
 
