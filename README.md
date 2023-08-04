@@ -84,6 +84,10 @@ First of all, you need to desolder a gameboy CPU from a gameboy DMG or from a su
 
 **NOTE**: When you start to hear aliens coming from the speaker and the screen starts flashing, it means that you have to charge the battery. I have not disabled the CPU in this case to give you the time to attach the power supply without losing the game in progress!!!
 
+## FAQs
+
+link [here](FAQs.md).
+
 ## Contacts
 
 **email**: vis.modding@gmail.com <br />
