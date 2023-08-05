@@ -88,7 +88,7 @@ First of all, you need to desolder a gameboy CPU from a gameboy DMG or from a su
 **WARNING** Don't do a bath of 15/30 minutes for the IPS board if tactiles are installed (keep them outside the IPA; otherwise, the glue that keep metal pieces will be dissolved and switches break). I solder the tactiles after the bath in IPA without using additional flux (I simply exploit the flux of the soldering tin).
 
 **SUGGESTED ITEMS**: I suggest using a 5v 2A USB-C charger to play while charging at 1A. I suggest you buy a 125054 Lipo battery that has a perfect fit into the shell. Finally,
-I suggest to use full silicone buttons from Kitch-Bent as shown in this [short video](https://www.youtube.com/watch?v=DBGJTIemyE4&t=64s&ab_channel=V1sModding).
+I suggest to use full silicone buttons from Kitsch-Bent as shown in this [short video](https://www.youtube.com/watch?v=DBGJTIemyE4&t=64s&ab_channel=V1sModding).
 
 **NOTE**: When you start to hear aliens coming from the speaker and the screen starts flashing, it means that you have to charge the battery. I have not disabled the CPU in this case to give you the time to attach the power supply without losing the game in progress!!!
 
