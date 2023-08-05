@@ -89,7 +89,7 @@ First of all, you need to desolder a gameboy CPU from a gameboy DMG or from a su
 
 **SUGGESTED ITEMS**: I suggest using a 5v 2A USB-C charger with the adapter shown in the following image to play while charging at 1A. I suggest you buy a 125054 Lipo battery that has a perfect fit into the shell. 
 
-![image](images/USB-C adapter.png)
+![image](images/USB_C_adapter.png)
 
 Finally, I suggest to use full silicone buttons from Kitsch-Bent as shown in this [short video](https://www.youtube.com/watch?v=DBGJTIemyE4&t=64s&ab_channel=V1sModding).
 
