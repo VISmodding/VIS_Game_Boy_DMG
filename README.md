@@ -91,7 +91,7 @@ First of all, you need to desolder a gameboy CPU from a gameboy DMG or from a su
     -	Firstly, you can populate the IPS board entirely by skipping soldering the button LEDS, the button resistors, and the contrast wheel (see the setup video from 28:58 to 29:55). Here on the power board, you can turn off the unregulated voltage required only with the original LCD.
     -	Then, you can solder and test the contrast wheel (also required to change the settings of the IPS panel) (see the setup video from 29:55 to 33:30). In the video has been used an old version of the board having problems with the holes for the LED (now don’t worry about this since it has been fixed).
     -	Then, you can install LED buttons, LED resistors, and the switch to turn ON/OFF these LEDs (see the setup video from 33:30 to 35:01). 
-    -	Finally, test the buttons and their LEDs
+    -	Finally, test the buttons and their LEDs.
       
       ![image](images/VIS_ips_board.png)
     - Pay attention to the orientation of the tactile buttons (the circled part of the following image must stay on the left and right for all the tactiles and not on the upper or lower part).
