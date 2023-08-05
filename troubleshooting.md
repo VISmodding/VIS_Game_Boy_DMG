@@ -40,7 +40,7 @@ Check firstly the connections between the DC jack PCB and the mainboard and also
 
 ## The Gameboy does not read any game and shows a corroded logo
 
-Rework the solder of the cartridge slot connector and the CPU pins, and the RAM pins circled in the following image
+Rework the solder of the cartridge slot connector and the CPU pins, and the RAM pins circled in the following image.
 
 ![image](images/corrupted_logo.png)
 
@@ -52,7 +52,7 @@ Other problems can be a general malfunction of the buttons (for example, buttons
 
 In addition, if you have installed tactile buttons, be sure of their orientation (check it in the read me section).
 
-Finally, if button LEDs are OFF, firstly, check if the switch on the IPS board is enabled. In this case, be sure also yo have installed the resistors without a label on the back of the IPS board. As a final check, be sure of the orientation of the LEDs.
+Finally, if button LEDs are OFF, firstly, check if the switch on the IPS board is enabled. In this case, check if you have installed the resistors for the LEDs (those without the labels on the back of the IPS board). As a final check, be sure that LEDs are soldered in the right orientation.
 
 
 
