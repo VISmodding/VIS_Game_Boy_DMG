@@ -49,9 +49,9 @@ Other **optional components to desolder** from a donor console are:
 ## Setup instructions
 
 The most **difficult parts** of the project are the following:
-  - **Desolder** the components from the donor console by using a hot air gun. For this step, I suggest searching videos on youtube regarding the **SYF Game Gear** setup in which it is shown how to desolder the game gear CPU. Desoldering with an hot air gun became extremely easy if you use the adapter shown in the following image (search by using their codes on Aliexpress to find them).
+  - **Desolder** the components from the donor console by using a hot air gun. For this step, I suggest searching videos on youtube regarding the **SYF Game Gear** setup in which it is shown how to desolder the game gear CPU. Desoldering with a hot air gun became extremely easy if you use the adapters shown in the following image (search by using their codes on Aliexpress to find them).
 
-  ![image](images/desolder_gun_adapters.png)
+    ![image](images/desolder_gun_adapters.png)
     
   - **Drag soldering** a 0.5 mm pitch SMD component. Also, in this case, you can refer to the videos made for the **SYF Game Gear** since solder the Game Gear single CPU version has the same type of difficulty.
 
