@@ -50,7 +50,7 @@ Other **optional components to desolder** from a donor console are:
 
 Download/produce them from [PCBway](https://www.pcbway.com/project/member/?bmbno=35F93582-472C-4A)
 
-<a href="https://www.pcbway.com/project/shareproject/Replacement_PCB_for_the_original_gameboy_DMG_Audio_screw_raiser_PCB_bb335a41.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+<a href="https://www.pcbway.com/project/shareproject/Replacement_PCB_for_the_original_gameboy_DMG_with_1_watt_speaker_lipo_battery_a_745f43ad.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 
 ## Setup instructions
