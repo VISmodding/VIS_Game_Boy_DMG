@@ -52,6 +52,7 @@ Download/produce them from [PCBway](https://www.pcbway.com/project/member/?bmbno
 
 <a href="https://www.pcbway.com/project/shareproject/Replacement_PCB_for_the_original_gameboy_DMG_with_1_watt_speaker_lipo_battery_a_745f43ad.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
+Additional info [here](Production_info.md).
 
 ## Setup instructions
 
@@ -117,6 +118,13 @@ First of all, you need to desolder a gameboy CPU from a gameboy DMG or from a su
 Finally, I suggest to use full silicone buttons from Kitsch-Bent as shown in this [short video](https://www.youtube.com/watch?v=DBGJTIemyE4&t=64s&ab_channel=V1sModding).
 
 **NOTE**: When you start to hear aliens coming from the speaker and the screen starts flashing, it means that you have to charge the battery. I have not disabled the CPU in this case to give you the time to attach the power supply without losing the game in progress!!!
+
+## Material saving
+
+If you plan to use an IPS board:
+
+  - you can skip solder/buy components for the -21V line required by the original LCD. These components on the power board are: F1, D3, D4, C11, C12, C13, C14, C15, C19, U6, and TR1. Clearly, you can also skip soldering the switch that enables/disables this -21V line.
+ - you can use a 1.25 mm pitch 22-pin FPC connector (on both mainboard and IPS PCB) and connect them with a 22 FFC-pin connector if you have a problem finding the 21-pin cables and connectors (clearly, when soldering, you will solder only 21 pins and one remain floating).
 
 ## FAQs
 
