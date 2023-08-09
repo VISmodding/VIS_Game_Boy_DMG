@@ -46,6 +46,13 @@ Other **optional components to desolder** from a donor console are:
   - **1 Watt speaker** (optional if you want to use the original DMG speaker).  You can find (in the files of this project) the 3D model of the holder that you can use to take it in place without glue it to the housing shell.
   - **wires and ph2.0 housing connectors** reported in the last sections of the BOM file (optional since you can solder directly wires on the boards).
 
+## Production file 
+
+Download/produce them from [PCBway](https://www.pcbway.com/project/member/?bmbno=35F93582-472C-4A)
+
+<a href="https://www.pcbway.com/project/shareproject/Replacement_PCB_for_the_original_gameboy_DMG_Audio_screw_raiser_PCB_bb335a41.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+
+
 ## Setup instructions
 
 The most **difficult parts** of the project are the following:
