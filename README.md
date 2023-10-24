@@ -9,6 +9,10 @@ This project was born with the aim of saving corroded boards of **Gameboy DMGs**
 
 Videos related to this project can be found on my [YouTube Channel](https://www.youtube.com/channel/UC17bQxOnCBejYQG4rzEg3jA).
 
+## Warning: 
+
+<ins>I have updated Gerber file of the mainboard to v1.1 on PCBway, in which an important fix has been done. If you have produced v1.0 of the mainboard, send me an email and I will tell you the fix that must be done.</ins>
+
 ## Disclaimer
 
 **This is a DIY project for electronic enthusiasts. For this reason, I am not responsible for any damage incurred while attempting this project or after completion of the project. You alone accept all risk since you are 100% liable for damage to yourself or your property.**
