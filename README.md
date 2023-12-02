@@ -17,6 +17,10 @@ Videos related to this project can be found on my [YouTube Channel](https://www.
 
 **This is a DIY project for electronic enthusiasts. For this reason, I am not responsible for any damage incurred while attempting this project or after completion of the project. You alone accept all risk since you are 100% liable for damage to yourself or your property.**
 
+## Credits
+
+[Gekkio](https://github.com/Gekkio/) for the [DMG](https://github.com/Gekkio/gb-schematics/tree/main/DMG-CPU-06) schematics
+
 ## Switches/selectors
 
 Before assembling the console, the following switches or selectors must be properly set:
