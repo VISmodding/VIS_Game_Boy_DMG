@@ -53,6 +53,7 @@ Other **optional components to desolder** from a donor console are:
   - **Kitsch-Bent full silicone buttons** (optional).
   - **1 Watt speaker** (optional if you want to use the original DMG speaker).  You can find (in the files of this project) the 3D model of the holder that you can use to take it in place without glue it to the housing shell.
   - **wires and ph2.0 housing connectors** reported in the last sections of the BOM file (optional since you can solder directly wires on the boards).
+  - **flat connectors 21 pin pitch 1.25mm** if you don't find them you can simply buy the 22 pin version (clearly also a 22 pin cable) and use them by leaving unsoldered one pin on both the mainboard and the IPS board (in doing this you have to leave unsoldered the first pin on a board and the last pin of the other one).
 
 ## Production file 
 
