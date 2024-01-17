@@ -1,3 +1,5 @@
+## Warning: OBSOLETE VERSION - If you don't plan to use the original DMG front PCB with the original screen I suggest to produce the DMG V2. Link [here](https://github.com/VISmodding/VIS-DMG-2.0/)
+
 # VIS_Game_Boy_DMG
 ![image](images/VIS_DMGs.jpg)
 This project was born with the aim of saving corroded boards of **Gameboy DMGs** or **SNES Super Gameboy adapter**s. For this reason, I developed replacement PCBs by using modern electronic components. Several exisisting DMG mods are included:
