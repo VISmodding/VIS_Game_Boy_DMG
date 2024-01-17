@@ -1,3 +1,5 @@
+## Warning: OBSOLETE VERSION - If you don't plan to use the original DMG front PCB with the original screen I suggest to produce the DMG V2. Link [here](https://github.com/VISmodding/VIS-DMG-2.0/)
+
 # Production information
 
 ## Mainboard Gerber file
