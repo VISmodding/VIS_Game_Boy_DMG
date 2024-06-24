@@ -19,6 +19,11 @@ Videos related to this project can be found on my [YouTube Channel](https://www.
 
 **This is a DIY project for electronic enthusiasts. For this reason, I am not responsible for any damage incurred while attempting this project or after completion of the project. You alone accept all risk since you are 100% liable for damage to yourself or your property.**
 
+## Security information for Lipo Battery
+The battery is physically distant form the tp4056 linear charger. In addition, the following features are implemented:
+- Overcharge and overdischarge protections achieved through the widely used and widespread combo FS8205A - DW01A.
+- Load sharing: you can safely play while charging the battery since the battery is disconnected from the load while charging (I use the same circuit of SYF Game Gear since its creator allowed me to use it).
+
 ## Credits
 
 [Gekkio](https://github.com/Gekkio/) for the [DMG](https://github.com/Gekkio/gb-schematics/tree/main/DMG-CPU-06) schematics
