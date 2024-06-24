@@ -165,4 +165,4 @@ I have several stuffs in mind, but since developing these things has a high cost
 
 **email**: vis.modding@gmail.com <br />
 
-**discord**: you can find me as *vis_modding* on several servers (BennVenn, Mouse Bit Lab, Retrosix modding, Game Boy, Gameboy makers).
+**discord**: you can find me as *vis_modding* on several servers (BennVenn, Mouse Bit Lab, Retrosix modding, Game Boy, Gameboy makers, Cybdyn Systems, Pixel FX Official Discord, Modded Gameboy Club).
